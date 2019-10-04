@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I am working in Dev1
+=======
+I am working in dev2
+
+>>>>>>> dev2
